@@ -20,8 +20,8 @@ body {
 }
 
 img {
-  max-width: 100%;
-  height: auto;
+  /* max-width: 100%;
+  height: auto; */
 }
 
 button {
@@ -37,8 +37,8 @@ a {
 }
 
 address {
-  display: none;
   font-style: ;
+  /* color: #000; */
 }
 
 ul {
@@ -52,8 +52,8 @@ h1, h2, h3, p {
 }
 
 .container {
-  padding: 0 15px;
-  margin: 0 auto;
+  padding: 0 2px;
+  margin: 0;
 }
 
 section {
